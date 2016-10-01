@@ -8,6 +8,6 @@ You can understand its point from the figure below.
 
 ![](http://ww3.sinaimg.cn/large/006y8lVagw1f8d5ptc1sig30dw07t7oe.gif)
 
-![](http://ww1.sinaimg.cn/large/006y8lVagw1f8d5pzv0hyg30dw07tb29.gif)
+![](http://ww1.sinaimg.cn/large/006y8lVagw1f8d5w3vww6g30dw07tb29.gif)
 
 ![](http://ww3.sinaimg.cn/large/006y8lVagw1f8d5qc7hmdg30dw07t7wh.gif)
